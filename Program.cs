@@ -15,7 +15,7 @@ contacorrenteVictor.Deposita(100.0);
 contaPoupancaVictor.Deposita(100.0);
 
 
-//Utilizando as Funcionalidades ->
+//Utilizando as Funcionalidades
 
 // contacorrenteVictor.Saca(50);
 // contaPoupancaVictor.Saca(50);
